@@ -184,6 +184,7 @@
 - [Simplenote](https://github.com/Automattic/simplenote-electron) - Light, clean and free. 👏
 - [Tagspaces](https://github.com/tagspaces/tagspaces) - Offline, open source and data manager. 👏
 - [Turtl](https://github.com/turtl/desktop) - Secure and collaborative notebook. 👏
+- [Obsidian](https://obsidian.md) - Powerful note-keeping in markdown with tons of plugins.
 
 ## Office
 
